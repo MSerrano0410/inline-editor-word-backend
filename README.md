@@ -1,0 +1,1 @@
+This application is to be used alongside the inline-editor-word-react project in my GitHub repository.
